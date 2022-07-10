@@ -1,5 +1,5 @@
 # Final Project Kelompok 1
-1. Anggota Kelompok:
+Anggota Kelompok :
 - Elisabet Indriani
 - Dita Wahyuni
 Nama Mentor: Ramdhan Hidayat 
